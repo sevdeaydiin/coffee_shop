@@ -1,6 +1,13 @@
 # coffee_shop
 
 A new Flutter project.
+https://www.figma.com/file/T7CnTPq4t3XWqWudhZWMnB/COFFEE-SHOP-APP-(Community)?type=design&node-id=1-40&mode=design&t=2NAOxZbcYJRiX0qF-0
+
+
+
+
+![Screenshot_20230912_225358](https://github.com/sevdeaydiin/coffee_shop/assets/74006598/06ef8921-f78a-4093-843f-9b9fc617da3e)
+
 
 ## Getting Started
 
